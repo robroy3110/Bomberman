@@ -1,10 +1,12 @@
 # Bomberman 
  
 Bomberman clone written in python using pygame. 
+
+Built with dynamic map generation and path algorithms
  
 ![](images/bomberman.gif)
  
-Game allow to play against two types of AI (Dijkstra Algorithm and Depth-first search) 
+Game allow to play against three types of AI (Dijkstra Algorithm, Depth-first search and our algorithm) 
  
 ![](images/git1.png)
  
